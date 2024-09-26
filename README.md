@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @apasca123
-- 👀 I’m interested in Frontend Software Engineering
-- 🌱 I’m currently learning JS
+- 👀 I’m working as a Software Engineer
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
